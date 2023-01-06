@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\SellerData.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\SellerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\SellerData.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\SellerData.AssemblyInfo.cs
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\SellerData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\bin\Debug\net6.0\SellerData.deps.json
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\bin\Debug\net6.0\SellerData.dll
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\bin\Debug\net6.0\SellerData.pdb
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\bin\Debug\net6.0\BusinessData.dll
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\bin\Debug\net6.0\BusinessData.pdb
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\SellerData.csproj.CopyComplete
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\SellerData.dll
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\refint\SellerData.dll
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\SellerData.pdb
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\ref\SellerData.dll
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\user\Desktop\Seller\SellerSolution\SellerCommon\SellerData\obj\Debug\net6.0\SellerData.csproj.ResolveComReference.cache
